@@ -1,18 +1,19 @@
-## Getting Started
+## DESAFIO BANCO TERMINAL
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio de código Java. Implementação de uma Conta Banco, conforme requisitos apresentados na tarefa.
 
-## Folder Structure
+## Estrutura do projeto
 
-The workspace contains two folders by default, where:
+Utilização da classe Scanner do Java para entrada de dados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `Número da Conta`: tipo inteiro
+- `Agencia`: tipo texto
+- `Nome`: tipo texto
+- `Saldo`: tipo decimal
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Retorno, uma String com os dados fornecidos pelo cliente.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Ferramentas utilizadas
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `Git & GitHub`
+- `Visual Studio Code - VSCode`
